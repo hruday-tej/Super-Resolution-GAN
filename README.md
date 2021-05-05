@@ -17,10 +17,10 @@ In this exercise we use an SRGAN design which is faithful to the original SRGAN 
 <img src="https://paperswithcode.com/media/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png"/>
 
 <hr>
-<b>Evaluation</b>
+<b>Evaluation</b><br>
 The visual quality of generated images will be observed. In addition standard quantitative metrics, Peak Signal-to-Noise Ratio and Structural Similarity Index (PSNR, SSIM), will be used to assess the results
 
-<figure>
+<figure class="video_container">
 <iframe src="https://www.kaggle.com/embed/shir0mani/enhancing-oct-image-resolution-with-srgan?cellId=14&cellIds=14&kernelSessionId=44502913" height="300" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Enhancing OCT image resolution with SRGAN "></iframe>
 </figure>
 <figure>
